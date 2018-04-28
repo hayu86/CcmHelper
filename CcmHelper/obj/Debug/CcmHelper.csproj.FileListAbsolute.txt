@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\CcmHelper\CcmHelper\obj\Debug\CcmHelper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\CcmHelper\CcmHelper\obj\Debug\CcmHelper.Form1.resources
+C:\Users\Administrator\source\repos\CcmHelper\CcmHelper\obj\Debug\CcmHelper.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CcmHelper\CcmHelper\obj\Debug\CcmHelper.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CcmHelper\CcmHelper\obj\Debug\CcmHelper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CcmHelper\CcmHelper\bin\Debug\CcmHelper.exe
+C:\Users\Administrator\source\repos\CcmHelper\CcmHelper\bin\Debug\CcmHelper.pdb
+C:\Users\Administrator\source\repos\CcmHelper\CcmHelper\obj\Debug\CcmHelper.exe
+C:\Users\Administrator\source\repos\CcmHelper\CcmHelper\obj\Debug\CcmHelper.pdb
